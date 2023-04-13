@@ -2,8 +2,6 @@
 <h3 align="center">喜欢跟优秀的人一起做事儿～</h3>
 
 
-- 🔭 I’m currently working on **ctrip.com**
-
 - 📝 I regularly write articles on [https://juejin.cn/user/1697301684048200/posts](https://juejin.cn/user/1697301684048200/posts)
 
 - 📫 How to reach me **897411954@qq.com**
