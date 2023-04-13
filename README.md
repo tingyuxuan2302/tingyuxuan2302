@@ -2,7 +2,8 @@
 <h3 align="center">喜欢跟优秀的人一起做事儿～</h3>
 
 
-- 📝 I regularly write articles on [https://juejin.cn/user/1697301684048200/posts](https://juejin.cn/user/1697301684048200/posts)
+- 👨‍🏫 我的线上课程（全栈跨端实践课）：[https://coding.imooc.com/class/553.html](https://coding.imooc.com/class/553.html)
+- 📝 我的博客： [https://juejin.cn/user/1697301684048200/posts](https://juejin.cn/user/1697301684048200/posts)
 
 - 📫 How to reach me **897411954@qq.com**
 
