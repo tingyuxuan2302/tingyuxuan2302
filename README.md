@@ -11,9 +11,9 @@
 - 💕 Fun fact **basketball🏀、travel✈️**
 
 
-<h3>关注我，持续输出技术，优秀解决方案以及人生思考</h3>
+<!-- <h3>关注我，持续输出技术，优秀解决方案以及人生思考</h3> -->
 
-![公众号二维码](https://github.com/tingyuxuan2302/tingyuxuan2302/assets/22094990/68fd15ff-5fc6-4fae-8341-d8ceff90356e)
+<!-- ![公众号二维码](https://github.com/tingyuxuan2302/tingyuxuan2302/assets/22094990/68fd15ff-5fc6-4fae-8341-d8ceff90356e) -->
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyuxuan2302&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
