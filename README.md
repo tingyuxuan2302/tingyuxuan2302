@@ -9,12 +9,11 @@
 - 💕 Fun fact **basketball🏀、travel✈️**
 
 
-<h3>我的公众号：涉猎前后端，二三维可视化，GIS，nodejs以及AIGC应用等</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyuxuan2302&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h5>我的公众号：涉猎前后端，二三维可视化，GIS，nodejs以及AIGC应用等</h5>
 
 ![公众号二维码](https://github.com/tingyuxuan2302/tingyuxuan2302/assets/22094990/68fd15ff-5fc6-4fae-8341-d8ceff90356e)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyuxuan2302&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
