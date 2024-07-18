@@ -3,6 +3,8 @@
 
 
 - 👨‍🏫 我的线上课程（全栈跨端实践课）：[https://coding.imooc.com/class/553.html](https://coding.imooc.com/class/553.html)
+
+- 🎉 Cesium从入门到项目实战教程请私信；
   
 - 📫 微信：brown_7778
 
