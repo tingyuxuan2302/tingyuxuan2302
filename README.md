@@ -2,9 +2,7 @@
 <h3 align="center">喜欢跟优秀的人一起做事儿～</h3>
 
 
-- 👨‍🏫 我的线上课程（全栈跨端实践课）：[https://coding.imooc.com/class/553.html](https://coding.imooc.com/class/553.html)
-
-- 🎉 Cesium从入门到项目实战教程请私信；
+- 🎉 Cesium课程： [Cesium从入门到实战](https://ww7rybwvygd.feishu.cn/docx/PG1TdAhK0oASyZxluGqciO7BnSg)；
   
 - 📫 微信：brown_7778
 
