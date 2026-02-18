@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm 不浪</h1>
 <h3 align="center">喜欢跟优秀的人一起做事儿～</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tingyuxuan2302&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Overall Stats" />
-</p>
+![Stars](https://img.shields.io/github/stars/tingyuxuan2302?style=for-the-badge&color=ffd700&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/tingyuxuan2302?style=for-the-badge&color=2ea44f&label=Followers)
 
 
 
